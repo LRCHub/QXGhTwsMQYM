@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "朝の歌",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-02-06T21:54:58.781928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝の歌",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_朝の歌_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝の歌",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_朝の歌_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asa no Uta [朝の歌]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Asa_no_Uta_[朝の歌]_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "朝の歌",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_朝の歌_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "朝の歌",
+      "artist": "Sakanaction",
+      "has_synced": true,
+      "path": "select/05_朝の歌_Sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝の歌",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_朝の歌_サカナクション.txt"
+    }
+  ]
+}
